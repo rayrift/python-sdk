@@ -10,7 +10,7 @@ and offers both synchronous and asynchronous clients powered by [httpx](https://
 
 ## Documentation
 
-This documentation covers the full Rayrift SDK — including setup, usage, configuration, known limitations, errors, and troubleshooting.
+This documentation covers the full Rayrift SDK — including setup, usage, configuration, known limitations, errors, and troubleshooting. The REST API documentation can be found on [docs.rayrift.com](https://docs.rayrift.com/sdk). The full API of this library can be found in [api.md](api.md).
 
 If you run into an issue or unexpected behavior, this is the first place to check. Live and extended documentation on: [Rayrift Documentation](https://docs.rayrift.com/sdk).
 
